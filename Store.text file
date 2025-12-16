@@ -1,0 +1,90 @@
+Why we use python?
+allow programmers to create application or built.
+
+Advantages
+has many libraries
+easy to learn
+supports many application/tool when creating
+
+Disadvantages 
+speed limitations
+consume alot of memory
+Runtime errors
+
+What is Pseudo code?
+information text of an algorithm using normal english writing with limited simplified programming.
+combination of natural language and code.
+
+
+Example:
+
+START
+
+SET filename to "reading.txt"
+
+OPEN file with filename in read mode
+
+IF file cannot be opened THEN
+    DISPLAY "Error: File cannot be open"
+    STOP
+ 
+ELSE open file
+    READ one line from file
+    DISPLAY the line
+
+CLOSE file
+
+
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
