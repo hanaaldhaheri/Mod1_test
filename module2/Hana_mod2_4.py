@@ -27,3 +27,7 @@ for _ in range(5):
 with open("5_random _people.json","w") as f:
     json.dump(people,f,indent=4)
     print("5 random people saved to people.json")
+
+
+#I imported json and random then create class function for person containing the attributes.
+#I created a list for the attributes then made a loop that will random select for the 5 people and store it in Json file.
